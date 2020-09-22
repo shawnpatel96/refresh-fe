@@ -6,7 +6,7 @@
 You can find the deployed project at [AWS Amplify](https://www.refresh-app.com/).<br/>
 Try out the admin side of Refresh as well!<br/>
 admin login: <br/>
-email: admin2@gmail.com/<br/><br/>
+email: admin2@gmail.com <br/>
 password: admin2<br/>
 
 ## Contributors
