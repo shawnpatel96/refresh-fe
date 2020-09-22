@@ -4,7 +4,10 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/5e8535f341bfc8ceb65c/test_coverage)](https://codeclimate.com/github/Lambda-School-Labs/refresh-fe/test_coverage)
 
 You can find the deployed project at [AWS Amplify](https://www.refresh-app.com/).
-admin login: admin2@gmail.com/admin2
+Try out the admin side of Refresh as well!
+admin login: 
+email: admin2@gmail.com/
+password: admin2
 
 ## Contributors
 
